@@ -1,5 +1,9 @@
 #include<iostream>
 using namespace std;
+void app()
+{
+	cout << "添加一个app函数" << endl;
+}
 
 void test(char)
 {
