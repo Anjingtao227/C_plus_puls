@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c_pulspuls_base", "c_pulspuls_base.vcxproj", "{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Debug|x64.ActiveCfg = Debug|x64
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Debug|x64.Build.0 = Debug|x64
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Debug|x86.Build.0 = Debug|Win32
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Release|x64.ActiveCfg = Release|x64
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Release|x64.Build.0 = Release|x64
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Release|x86.ActiveCfg = Release|Win32
+		{E04F9AEE-3862-4098-A5BF-D7AD7F8F589A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BFC6D5-2133-481A-8C49-339E95CF10E9}
+	EndGlobalSection
+EndGlobal
