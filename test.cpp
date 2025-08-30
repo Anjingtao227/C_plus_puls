@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 
-void tests()
+void test(char)
 {
-	cout << "第3次修改" << endl;
+	cout << "第4次修改" << endl;
 }
 
 int main()
