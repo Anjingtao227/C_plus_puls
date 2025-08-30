@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void test(char)
+void test(int a)
 {
 	cout << "µÚ4´ÎÐÞ¸Ä" << endl;
 }
