@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 
+void test()
+{
+	cout << "µÚ2´ÎÐÞ¸Ä" << endl;
+}
+
 int main()
 {
 	float add(float x, float y);
