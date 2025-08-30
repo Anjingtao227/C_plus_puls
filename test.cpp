@@ -1,5 +1,9 @@
 #include<iostream>
 using namespace std;
+void add()
+{
+	cout << "添加一个加法函数" << endl;
+}
 
 void test(char)
 {
